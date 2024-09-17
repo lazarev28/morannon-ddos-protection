@@ -1,0 +1,14 @@
+{
+  "sites": [
+    {
+      "name": "lazarev-test-site.wiki",
+      "url": "https://lazarev-test-site.wiki",
+      "cf_zone_id": "aae5dff5e9252dae0cefb32afba2e587"
+    },
+    {
+      "name": "lazarev-test-site.wiki",
+      "url": "https://lazarev-test-site.wiki",
+      "cf_zone_id": "aae5dff5e9252dae0cefb32afba2e587"
+    }
+  ]
+}

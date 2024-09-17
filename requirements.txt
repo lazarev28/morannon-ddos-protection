@@ -1,0 +1,5 @@
+sentry-sdk
+pandas
+python-dotenv
+redlock-py
+geoip2
